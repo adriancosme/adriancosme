@@ -1,4 +1,7 @@
-## Hi, I'm Edwin Cosme
+## Hi, I'm Edwin Cosme 👋
+
++2 years of experience as software engineer working primarily with the JavaScript tech stack. Fast learner, team
+ player, and always seeking opportunities to provide assistance and contribute to the growth and success of the team.
 
 ![](https://komarev.com/ghpvc/?username=adriancosme&style=flat-square)
 
