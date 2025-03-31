@@ -2,7 +2,6 @@
 
 +2 years of experience as software engineer. Fast learner, team player, and always seeking opportunities to provide assistance and contribute to the team.
  
- - 🌱 I'm currenly learning SpringBoot and Java.
  - 📫 How to reach me: adriancosme15@gmail.com
  - 🌍 You can see my portfolio here: https://edwincosme.vercel.app/
 
